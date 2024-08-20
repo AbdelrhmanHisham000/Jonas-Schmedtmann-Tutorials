@@ -22,7 +22,7 @@ Use of conditional statements and event listeners.
 Basic implementation of game logic in JavaScript.
 Live Demo: [https://abdelrhmanhisham000.github.io/Jonas-Schmedtmann-Tutorials/Guess-My-Number/]
 
-2. Pig-Game
+### 2. Pig-Game
 Description:
 "Pig Game" is a two-player dice game. Players take turns rolling a dice and accumulate their score for that turn. A player can choose to "Hold" their score, adding it to their total score, but if they roll a 1, they lose their accumulated score for that turn. The first player to reach 100 points wins the game.
 
@@ -33,7 +33,7 @@ DOM manipulation to update the score and active player.
 Implementation of game rules and conditions.
 Live Demo: [https://abdelrhmanhisham000.github.io/Jonas-Schmedtmann-Tutorials/Pig-Game/]
 
-3. Bankist
+### 3. Bankist
 Description:
 "Bankist" is a minimalist banking application where users can log in, transfer money between accounts, request loans, and close their accounts. The application simulates a real banking system with multiple features for account management.
 
@@ -45,7 +45,7 @@ Sorting and calculating balance, interest, and loans.
 Modern UI/UX design with clean and responsive layouts.
 Live Demo: [https://abdelrhmanhisham000.github.io/Jonas-Schmedtmann-Tutorials/Bankist/]
 
-4. Mapty-OOP
+### 4. Mapty-OOP
 Description:
 "Mapty" is a workout tracking application that allows users to log running and cycling workouts. The application uses Object-Oriented Programming (OOP) principles to create different workout types. It integrates the Leaflet library for map functionality, allowing users to mark their workout locations.
 
@@ -57,7 +57,7 @@ Persistent data storage using local storage.
 Responsive UI with real-time updates and data visualization.
 Live Demo: [https://abdelrhmanhisham000.github.io/Jonas-Schmedtmann-Tutorials/Mapty-OOP/]
 
-5. Forkify
+### 5. Forkify
 Description:
 "Forkify" is a recipe search application that allows users to find and save their favorite recipes. The app fetches data from the Forkify API, providing users with detailed recipe instructions, ingredients, and cooking time. Users can also create and manage their bookmarks for easy access to favorite recipes.
 
