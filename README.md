@@ -2,7 +2,7 @@
 The Complete JavaScript Course 2023: From Zero to Expert!
 This repository contains the projects developed during Jonas Schmedtmann's "The Complete JavaScript Course 2023: From Zero to Expert!" on Udemy. The course provides a comprehensive journey through modern JavaScript, starting from the basics and progressing to advanced concepts, with a focus on real-world applications.
 
-#Course Overview
+## Course Overview
 JavaScript Fundamentals: Learn the core concepts of JavaScript, including variables, data types, functions, and control structures.
 DOM Manipulation: Discover how to make your web pages interactive by manipulating the Document Object Model (DOM).
 Advanced JavaScript: Dive into advanced topics like closures, the "this" keyword, asynchronous JavaScript (Promises, async/await), and more.
@@ -10,7 +10,7 @@ Object-Oriented Programming (OOP): Understand OOP principles in JavaScript, incl
 Modern JavaScript Features: Explore the latest features in JavaScript (ES6+), such as arrow functions, destructuring, and modules.
 This repository features the five major projects that were built as part of the course, each designed to reinforce the concepts learned.
 
-##Projects
+## Projects
 1. Guess-My-Number
 Description:
 "Guess My Number!" is a simple number guessing game. The player has to guess a secret number between 1 and 20. With each guess, the player is told whether the guess is too high, too low, or correct. The goal is to guess the correct number with as few attempts as possible.
@@ -69,5 +69,5 @@ User-friendly interface with dynamic rendering of recipes.
 Local storage for bookmark management and persistence.
 Live Demo: [Link to the project]
 
-##Conclusion
+## Conclusion
 This repository showcases the practical applications of the skills and concepts learned throughout the "Complete JavaScript Course 2023" by Jonas Schmedtmann. Each project is designed to reinforce different aspects of JavaScript, from basic DOM manipulation to advanced asynchronous programming and Object-Oriented Programming (OOP). Feel free to explore the code, experiment with the applications, and build upon them for your own projects.
