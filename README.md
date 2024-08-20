@@ -11,7 +11,7 @@ Modern JavaScript Features: Explore the latest features in JavaScript (ES6+), su
 This repository features the five major projects that were built as part of the course, each designed to reinforce the concepts learned.
 
 ## Projects
-1. Guess-My-Number
+### 1. Guess-My-Number
 Description:
 "Guess My Number!" is a simple number guessing game. The player has to guess a secret number between 1 and 20. With each guess, the player is told whether the guess is too high, too low, or correct. The goal is to guess the correct number with as few attempts as possible.
 
