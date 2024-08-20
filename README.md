@@ -2,7 +2,7 @@
 The Complete JavaScript Course 2023: From Zero to Expert!
 This repository contains the projects developed during Jonas Schmedtmann's "The Complete JavaScript Course 2023: From Zero to Expert!" on Udemy. The course provides a comprehensive journey through modern JavaScript, starting from the basics and progressing to advanced concepts, with a focus on real-world applications.
 
-##Course Overview
+#Course Overview
 JavaScript Fundamentals: Learn the core concepts of JavaScript, including variables, data types, functions, and control structures.
 DOM Manipulation: Discover how to make your web pages interactive by manipulating the Document Object Model (DOM).
 Advanced JavaScript: Dive into advanced topics like closures, the "this" keyword, asynchronous JavaScript (Promises, async/await), and more.
